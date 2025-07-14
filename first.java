@@ -58,3 +58,9 @@ public class Main {
         }
     }
 }
+//output
+//Serialized JSON:
+// {"name":"Tanuj","age":23,"balanceAmount":12500.5,"interest":["chess","music"]}
+
+// Deserialized Object:
+// Person{name='Tanuj', age=23, balanceAmount=12500.5, interest=[chess, music]}
